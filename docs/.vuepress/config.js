@@ -23,7 +23,7 @@ export default defineUserConfig({
   title: 'VuePress',
   description: 'My first VuePress Site',
   head: [['link', { rel: 'img', href: '/faicon.png' }]],
-  base: '/giios/',
+  base: '/',
 
   theme: defaultTheme({
     locales: {
